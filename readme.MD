@@ -1,7 +1,8 @@
 <p align="center">
    <img src="https://img.shields.io/npm/dt/random-fortunes?style=for-the-badge">
    <img src="https://img.shields.io/npm/v/random-fortunes?style=for-the-badge">
-   <img src="https://img.shields.io/badge/Server-Invite-brightgreen">
+   <a href = "https://discord.gg/7UQaVPBQka" > <img src="https://img.shields.io/badge/Server-Invite-brightgreen" href = "">
+   </a>
 </p>   
 
 # Example: 
