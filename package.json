@@ -1,0 +1,18 @@
+{
+  "name": "random-fortunes",
+  "version": "1.0.0",
+  "description": "get random fortunes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fortunes",
+    "djs",
+    "discord.js",
+    "random",
+    "random-fortunes"
+  ],
+  "author": "dream-prince",
+  "license": "ISC"
+}
