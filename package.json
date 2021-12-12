@@ -1,6 +1,6 @@
 {
   "name": "random-fortunes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "get random fortunes.",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,13 @@
     "random-fortunes"
   ],
   "author": "dream-prince",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamBoy65/random-fortunes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DreamBoy65/random-fortunes/issues"
+  },
+  "homepage": "https://github.com/DreamBoy65/random-fortunes#readme"
 }
