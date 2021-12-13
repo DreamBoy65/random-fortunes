@@ -1,6 +1,6 @@
 {
   "name": "random-fortunes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "get random fortunes.",
   "main": "index.js",
   "scripts": {
