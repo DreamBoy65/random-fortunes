@@ -9,7 +9,7 @@
 ```js
 const randomFortunes = require("random-fortunes")
 
-console.log(randomWord(1)) //value
+console.log(randomFortunes(1)) //value
 
 ```
 
